@@ -52,7 +52,7 @@ class AdvancedNetworkTester:
  ░ ▒  ▒  ░ ░  ░ ▒   ▒▒ ░░░▒░ ░ ░     ░     ▒ ░▒░ ░
  ░ ░  ░    ░    ░   ▒    ░░░ ░ ░   ░       ░  ░░ ░
    ░       ░  ░     ░  ░   ░               ░  ░  ░
- ░ 
+ ░      
      Advanced Network Stress Tester (Scapy)
 """)
 
