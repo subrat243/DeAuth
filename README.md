@@ -1,4 +1,4 @@
-# Advanced Network Stress Tester
+# Network Stress Tester
 
 ## Overview
 
