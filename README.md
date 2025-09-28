@@ -258,7 +258,7 @@ sudo python3 network_tester.py 192.168.1.1 -a mixed-flood
 
 ## License
 
-Provided **as-is**, without warranty. Use responsibly and at your own risk.
+Provided **as-is**, without warranty. Use responsibly and at your own risk.This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
